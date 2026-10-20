@@ -4,4 +4,3 @@ sentence-transformers
 fastapi
 uvicorn
 pdfplumber
-pypdf
